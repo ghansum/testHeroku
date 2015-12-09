@@ -11,7 +11,7 @@
 	// indexed from zero upwards.
 
 	// Display name for the server on the login screen
-	$conf['servers'][0]['desc'] = 'PostgreSQL-Heroku';
+	$conf['servers'][0]['desc'] = 'HerokuPostgres';
 
 	// Hostname or IP address for server.  Use '' for UNIX domain socket.
 	// use 'localhost' for TCP/IP connection on this computer
@@ -28,7 +28,7 @@
 
 	// Change the default database only if you cannot connect to template1.
 	// For a PostgreSQL 8.1+ server, you can set this to 'postgres'.
-	$conf['servers'][0]['defaultdb'] = 'template1';
+	$conf['servers'][0]['defaultdb'] = 'postgres';
 
 	// Specify the path to the database dump utilities for this server.
 	// You can set these to '' if no dumper is available.
