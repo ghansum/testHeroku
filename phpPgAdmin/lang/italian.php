@@ -164,9 +164,9 @@
 	$lang['strimporterror-fileformat'] = 'Errore durante l\'import: determinazione automatica del formato del file fallita.';
 	$lang['strimporterrorline'] = 'Errore durante l\'import alla linea %s.';
 	$lang['strimporterrorline-badcolumnnum'] = 'Errore durante l\'import alla linea %s: la linea non possiede il numero corretto di colonne.';
-	$lang['strimporterror-uploadedfile'] = 'Errore durante l\'import: non è stato possibile caricare il file sul server';
+	$lang['strimporterror-uploadedfile'] = 'Errore durante l\'import: non è stato possible caricare il file sul server';
 	$lang['strcannotdumponwindows'] = 'Il dump di nomi complessi di tabelle o schemi sotto Windows non è supportato.';
-	$lang['strinvalidserverparam'] = 'Tentativo di connessione al server con parametri non validi, è possibile che qualcuno stia cercando di forzare il sistema.';
+	$lang['strinvalidserverparam'] = 'Tentativo di connessione al server con parametri non validi, è possible che qualcuno stia cercando di forzare il sistema.';
 
 	// Tables - Tabelle
 	$lang['strtable'] = 'Tabella';

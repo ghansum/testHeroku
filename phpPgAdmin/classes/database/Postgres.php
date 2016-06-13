@@ -2855,7 +2855,7 @@ class Postgres extends ADODB_base {
 	 * @param $restartvalue The sequence current value
 	 * @param $cachevalue The sequence cache value
 	 * @param $cycledvalue Sequence can cycle ?
-	 * @param $startvalue The sequence start value when issueing a restart
+	 * @param $startvalue The sequence start value when issuing a restart
 	 * @return 0 success
 	 */
 	function alterSequenceProps($seqrs, $increment,	$minvalue, $maxvalue,
@@ -2894,7 +2894,7 @@ class Postgres extends ADODB_base {
 	 * @param $restartvalue The starting value
 	 * @param $cachevalue The cache value
 	 * @param $cycledvalue True if cycled, false otherwise
-	 * @param $startvalue The sequence start value when issueing a restart
+	 * @param $startvalue The sequence start value when issuing a restart
 	 * @return 0 success
 	 * @return -3 rename error
 	 * @return -4 comment error
@@ -2960,7 +2960,7 @@ class Postgres extends ADODB_base {
 	 * @param $restartvalue The starting value
 	 * @param $cachevalue The cache value
 	 * @param $cycledvalue True if cycled, false otherwise
-	 * @param $startvalue The sequence start value when issueing a restart
+	 * @param $startvalue The sequence start value when issuing a restart
 	 * @return 0 success
 	 * @return -1 transaction error
 	 * @return -2 get existing sequence error

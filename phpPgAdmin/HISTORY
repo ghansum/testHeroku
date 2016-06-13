@@ -29,7 +29,7 @@ Bugs
 Translations
 * Lithuanian (artvras) 
 
-Incompatabilities
+Incompatibilities
 * We have stopped testing against Postgres versions < 8.4, which are EOL
 * phpPgAdmin core is now UTF-8 only
 
@@ -86,9 +86,9 @@ Translations
 * Czech (Marek Cernocky)
 * Greek (Adamantios Diamantidis)
 * Brazillian Portuguese (Fernando Wendt)
-* Galician (Adrián Chaves Fernández)
+* Galician (Adriï¿½n Chaves Fernï¿½ndez)
 
-Incompatabilities
+Incompatibilities
 * No longer support PHP < 5.0
 * No longer support Postgres < 7.4
 
@@ -573,7 +573,7 @@ Bugs
 
 Translations
 * Afrikaans from Petri Jooste
-* Hungarian from Sulyok Péter
+* Hungarian from Sulyok Pï¿½ter
 * German update from Markus Bertheau
 * Trad. Chinese from Chih-Hsin Lee
 * Hungarian from Peti 

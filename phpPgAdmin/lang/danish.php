@@ -113,7 +113,7 @@
 	$lang['stradvanced'] = 'Avanceret';
 	$lang['strvariables'] = 'Variable';
 	$lang['strprocess'] = 'Proces';
-	$lang['strprocesses'] = 'Processer';
+	$lang['strprocesses'] = 'Processor';
 	$lang['strsetting'] = 'Indstilling';
 	$lang['streditsql'] = 'Rediger SQL';
 	$lang['strruntime'] = 'Total runtime: %s ms';

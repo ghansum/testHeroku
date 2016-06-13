@@ -1738,7 +1738,7 @@
 		}
 
 		/**
-		 * Converts a PHP.INI size variable to bytes.  Taken from publically available
+		 * Converts a PHP.INI size variable to bytes.  Taken from publicly available
 		 * function by Chris DeRose, here: http://www.php.net/manual/en/configuration.directives.php#ini.file-uploads
 		 * @param $strIniSize The PHP.INI variable
 		 * @return size in bytes, false on failure

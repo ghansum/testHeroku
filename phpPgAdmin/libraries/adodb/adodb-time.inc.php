@@ -33,7 +33,7 @@ of date()'s field formats. Mktime() will convert from local time to GMT,
 and date() will convert from GMT to local time, but daylight savings is 
 not handled currently.
 
-This library is independant of the rest of ADOdb, and can be used
+This library is independent of the rest of ADOdb, and can be used
 as standalone code.
 
 PERFORMANCE
