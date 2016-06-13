@@ -472,11 +472,11 @@ class ADODB_DataDict {
 	/**
 	 * Change the definition of one column
 	 *
-	 * As some DBM's can't do that on there own, you need to supply the complete defintion of the new table,
+	 * As some DBM's can't do that on there own, you need to supply the complete definition of the new table,
 	 * to allow, recreating the table and copying the content over to the new table
 	 * @param string $tabname table-name
 	 * @param string $flds column-name and type for the changed column
-	 * @param string $tableflds='' complete defintion of the new table, eg. for postgres, default ''
+	 * @param string $tableflds='' complete definition of the new table, eg. for postgres, default ''
 	 * @param array/string $tableoptions='' options for the new table see CreateTableSQL, default ''
 	 * @return array with SQL strings
 	 */
@@ -508,7 +508,7 @@ class ADODB_DataDict {
 	 * @param string $tabname table-name
 	 * @param string $oldcolumn column-name to be renamed
 	 * @param string $newcolumn new column-name
-	 * @param string $flds='' complete column-defintion-string like for AddColumnSQL, only used by mysql atm., default=''
+	 * @param string $flds='' complete column-definition-string like for AddColumnSQL, only used by mysql atm., default=''
 	 * @return array with SQL strings
 	 */
 	function RenameColumnSQL($tabname,$oldcolumn,$newcolumn,$flds='')
@@ -527,11 +527,11 @@ class ADODB_DataDict {
 	/**
 	 * Drop one column
 	 *
-	 * Some DBM's can't do that on there own, you need to supply the complete defintion of the new table,
+	 * Some DBM's can't do that on there own, you need to supply the complete definition of the new table,
 	 * to allow, recreating the table and copying the content over to the new table
 	 * @param string $tabname table-name
 	 * @param string $flds column-name and type for the changed column
-	 * @param string $tableflds='' complete defintion of the new table, eg. for postgres, default ''
+	 * @param string $tableflds='' complete definition of the new table, eg. for postgres, default ''
 	 * @param array/string $tableoptions='' options for the new table see CreateTableSQL, default ''
 	 * @return array with SQL strings
 	 */

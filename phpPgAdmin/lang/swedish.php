@@ -113,7 +113,7 @@
 	$lang['stradvanced'] = 'Avancerat';
 	$lang['strvariables'] = 'Variabler';
 	$lang['strprocess'] = 'Process';
-	$lang['strprocesses'] = 'Processer';
+	$lang['strprocesses'] = 'Processor';
 	$lang['strsetting'] = 'Inställning';
 	$lang['strparameters'] = 'Parametrar';
 

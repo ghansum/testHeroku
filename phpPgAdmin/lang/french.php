@@ -435,7 +435,7 @@
 	$lang['strlastvalue'] = 'Dernière valeur';
 	$lang['strincrementby'] = 'Incrémenter par ';
 	$lang['strstartvalue'] = 'Valeur de départ';
-	$lang['strrestartvalue'] = 'Valeur de redémarrage';
+	$lang['strrestartvalue'] = 'Valeur de redémarriage';
 	$lang['strmaxvalue'] = 'Valeur maximale';
 	$lang['strminvalue'] = 'Valeur minimale';
 	$lang['strcachevalue'] = 'Valeur de cache';
@@ -449,7 +449,7 @@
 	$lang['strsequencedropped'] = 'Séquence supprimée.';
 	$lang['strsequencedroppedbad'] = 'Échec lors de la suppression de la séquence.';
 	$lang['strsequencerestart'] = 'Séquence redémarrée.';
-	$lang['strsequencerestartbad'] = 'Échec tu redémarrage de la séquence.';
+	$lang['strsequencerestartbad'] = 'Échec tu redémarriage de la séquence.';
 	$lang['strsequencereset'] = 'Séquence initialisée.';
 	$lang['strsequenceresetbad'] = 'Échec lors de l\'initialisation de la séquence.';
 	$lang['strsequencealtered'] = 'Séquence modifiée.';

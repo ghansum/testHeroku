@@ -195,8 +195,8 @@
 	$lang['strcannotdumponwindows'] = 'El volcat de dades amb noms complexos de taules i esquemes en Windows no és suportada.';
 	$lang['strinvalidserverparam'] = 'Intent de connexió amb un paràmetre del servidor invàlid, possiblement algú està provant d\'entrar al sistema.'; 
 	$lang['strnoserversupplied'] = 'No s\'ha proporcionat cap servidor!';
-        $lang['strbadpgdumppath']  =  'Error d\'exportació: Fallada en l\'execució de pg_dump (path definit a conf/config.inc.php : %s ). Sisplau, arregli el path en la configuració.';
-        $lang['strbadpgdumpallpath']  =  'Error d\'exportació: Fallada en l\'execució de pg_dumpall (path definit a conf/config.inc.php : %s ). Sisplau, arregli el path en la configuració.';
+        $lang['strbadpgdumppath']  =  'Error d\'exportació: Fallada en l\'execució de pg_dump (path definite a conf/config.inc.php : %s ). Sisplau, arregli el path en la configuració.';
+        $lang['strbadpgdumpallpath']  =  'Error d\'exportació: Fallada en l\'execució de pg_dumpall (path definite a conf/config.inc.php : %s ). Sisplau, arregli el path en la configuració.';
         $lang['strconnectionfail']  =  'No hi ha connexió amb el servidor.';
 
 	// Tables
